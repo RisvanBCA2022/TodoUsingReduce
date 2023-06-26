@@ -1,0 +1,36 @@
+body {
+    background: #333;
+    color: lightgreen;
+    max-width: 400px;
+    padding: 1rem;
+    margin: 0 auto;
+  }
+
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    width: 40vh;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+     background: hsl(200, 100%, 50%, 0.1);
+    border: 1px solid lightgreen;
+    color: lightgreen;
+    padding: 0.25em 0.5em;
+    border-radius: 0.25em;
+    cursor: pointer;
+    outline: none;
+}
+span{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    
+}
